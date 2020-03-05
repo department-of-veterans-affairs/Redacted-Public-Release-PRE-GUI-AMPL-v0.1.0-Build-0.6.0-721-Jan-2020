@@ -1,2 +1,3 @@
 # Redacted-Public-Release-PRE-GUI-AMPL-v0.1.0-Build-0.6.0-721-Jan-2020
 Repository containing the CIF Submission for Pharmacy Graphic User Interface (GUI) - Advanced Medication Platform (AMPL), V0.1.0, Build 7 Sprint 2, build 0.6.0-721 received Jan 2020.
+Enhancements to the capabilities of Veterans Health Information Systems and Technology Architecture (VistA) Pharmacy package through the Advanced Medication Platform (AMPL) Pharmacy Graphic User Interface (GUI) to provide pharmacists with a single point of access to patients' medical data in a clearer and more user friendly display. The AMPL GUI is intended to advance VA's ongoing efforts to employ robust electronic health records, and improve the efficiency and safety of the medication order process.
